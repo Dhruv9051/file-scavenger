@@ -191,6 +191,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 If you find this extension helpful, consider supporting its development.
 
 - ⭐ Star the repository on GitHub.
+- 📝 Provide a rating and review for the extension on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dhruvsuvarna.file-scavenger).
 - 🐛 Report issues or suggest features in the [Issues Section](https://github.com/Dhruv9051/file-scavenger/issues).
 - 💬 Share feedback or ask questions on [Email](mailto:dhruvsuvarna30@gmail.com).
 
