@@ -12,6 +12,7 @@
 # Ignore generated files
 *.vsix
 *.log
+*.mjs
 
 # Ignore environment-specific files
 .env
