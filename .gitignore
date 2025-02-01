@@ -1,0 +1,38 @@
+# Ignore build and distribution directories
+/dist
+/node_modules
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore local development files
+.vscode-test/
+.vscodeignore
+
+# Ignore generated files
+*.vsix
+*.log
+
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore dependency directories
+/node_modules
+/.pnpm-store
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+*.swp
+*.swo
+
+# Ignore TypeScript build output
+/out
+/tsconfig.tsbuildinfo
+
+# Ignore Webpack cache
+/.cache
