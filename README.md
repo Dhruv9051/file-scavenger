@@ -167,12 +167,12 @@ To contribute code:
     Make your changes and test thoroughly.
     
     Commit your changes and push them to your forked repository:
-    
-        ```bash
-        git add .
-        git commit -m "Add your commit message here"
-        git push origin feature/your-feature-name
-        ```
+
+     ```bash
+     git add .
+     git commit -m "Add your commit message here"
+     git push origin feature/your-feature-name
+    ```
 
 - Submit a pull request:
 
